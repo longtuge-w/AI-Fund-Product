@@ -1,2 +1,2 @@
-# AI-Fund-Product
-Here are some sample codes written during my quantitative research internship
+# DL Model Concatenation
+In this task, I try sorts of advanced DL models equipped with various loss functions. For the features, I categorize alpha factors into different groups, then conduct factors based on the groups. For this experiment, I find that DL models suited for time series data like LSTM, ALSTM, AdaRNN works well. Some complex models like Transformer does not achieve great performance regarding backtesting. Additionally, the loss functions focusing on ranking performs well such as ListNet and ListFold.
