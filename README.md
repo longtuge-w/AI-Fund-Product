@@ -1,2 +1,2 @@
-# AI-Fund-Product
-Here are some sample codes written during my quantitative research internship
+# LTR XGBoost
+This experiment tries to equipped XGBoost with LTR loss functions. I find that ListMLE, ListNet, and LambdaMART outperforms MSE.
