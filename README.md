@@ -1,6 +1,2 @@
-# AI-Fund-Product
-I'm Chongrui Wang.
-
-Here are some sample codes written during my quantitative research internship.
-
-Notice that each branch represents a specific task.
+# Time Series Signal
+This experiment finds some signals on the time series data. Specifically, it finds momentum and contrarian signals.
