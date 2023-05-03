@@ -1,2 +1,2 @@
-# AI-Fund-Product
-Here are some sample codes written during my quantitative research internship
+# RPS
+This experiment is to find alpha factors based on RPS
